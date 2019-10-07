@@ -20,4 +20,7 @@
 /******************************************************************************** 
     SCHRIJF HIERONDER JOUW CODE.
     UPLOAD DIT BESTAND DAN IN DE MAP DIE JE VIA DE MAIL HEBT ONTVANGEN.
+    
+    JOUW NAAM:  
+    KLAS:       
 *********************************************************************************/
