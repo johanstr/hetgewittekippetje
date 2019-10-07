@@ -1,0 +1,99 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.container {
+    max-width: 960px;
+}
+
+.pricing-header {
+    max-width: 700px;
+}
+
+.card-deck .card {
+    min-width: 220px;
+}
+
+span.navbar-small-heading {
+    font-size: 10px;
+    color: green;
+    font-style: italic;
+    margin-left: 5px;
+}
+
+img.logo {
+    height: 40px;
+    width: auto;
+    margin-right: 5px;
+}
+
+.header-image {
+    width: 100%;
+    height: auto;
+}
+
+.banner-row {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.product {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+}
+
+.product-img-top {
+    width: 100%;
+    background-color: #239F74;
+    padding: 5px;
+    height: auto;
+    vertical-align: middle;
+    border-style: none;
+}
+
+.product-body {
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+
+.product-title {
+    font-weight: 500;
+    line-height: 1.2;
+    width: 100%;
+    padding: 5px;
+}
+
+.product-text {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.product-price-tag {
+    color: red;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: right;
+    margin-bottom: 0;
+}
+
+.card {
+    border-radius: 0px !important;
+    margin-right: 10px;
+}
+
+.card-img-top {
+    margin-top: 15px !important;
+}
